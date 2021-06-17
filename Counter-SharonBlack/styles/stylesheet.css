@@ -1,0 +1,17 @@
+
+h1 {
+    text-align: center;
+}
+
+output {
+    text-align: center;
+    font-weight: 800px;
+    font-size: 50px;
+    color: green;
+}
+
+#button1, #button2, #button3{
+    margin:auto;
+    width: 200px;
+    border-radius: 30px;
+}
